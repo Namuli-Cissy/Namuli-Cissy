@@ -1,0 +1,30 @@
+.header{
+	font-size:200%;
+	color:red;
+	font-family:verdana;
+	text-shadow:4px 3px blue;
+}
+section.section1{
+	color:green;
+}
+*{
+	background-color:#ffff80;
+}
+section.section2{
+	color:blue;
+}
+section.section3{
+	color:green;
+}
+div.img{
+	width:900px;
+	height:auto;
+	padding-left:50px;
+}
+/*text alignment*/
+.alignment{
+	text-align:center;
+}
+/*text decoration*/
+.u{text-decoration:underline;}	
+.ov{ text-decoration:overlin;}

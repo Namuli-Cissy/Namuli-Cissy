@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" href="cissy.css">
+<title> CISSY 2</title>
+</head>
+<body>
+<h1 class="header"> VISIT MASAKA SOCIAL CENTER</h1>
+<section class="section1">
+<h2>our aim is to maintain the appearance and quality of our community</h2>
+<h2>offering special places for community gatherings is our best priolity</h2>
+</section>
+<adddress> MASAKA SOCIAL CENTER,<br>P.O.BOX 1235,<br>MASAKA BWALA HILL</address>
+<p style="color:red"<Email:masakasocailcenter@gmail.com></p>
+<p>Tel 0760348245</p>
+<a href="cissy 1.html">go to cissy 1</a><br>
+<section class="section2">
+<h4>WE ARE WELL KNOWN FOR THIS</h4>
+<ol>
+<l1>Best in providing the organised rooms you never dreamed of</l1><br>
+<l2>Our place provides a clear view for education services</l2><br>
+<l3>We provide a wide area for ceremonies and also organise each funtion on our way</l3><br>
+<l4>Best delious meals are provided in our </l4><br>
+</section>
+<!--Fillfree to visit our place-->
+<section class="section3">
+<h5> More information about Masaka social center</h5>
+<p>We are located at Bwala Hill main road from the round about</P>
+<P>Aslo near HILL ROAD PRI SCH</p>
+<P>We are a special place in Masaka were you can find free WIFI</P>
+</section>
+<p class="alignment">EDUCATION SERVICES</p>
+<img src="a.jpg">
+<img src="b.jpg">
+<img src="f.jpg">
+<p class="u"> ACCOMODATION SERVICES</p>
+<img src="1.jpg">
+<img src="o.jpg">
+<p class="ov">RESTORANT SERVICES</p>
+<img src="p.jpg">
+<img src="v.jpg">
+</body>
+</html>

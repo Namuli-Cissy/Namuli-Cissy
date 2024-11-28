@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" href="cissy.css">
+<title> CISSY 1</title>
+</head>
+<body>
+<h1 class="header"> VISIT MASAKA SOCIAL CENTER</h1>
+<section class="section1">
+<h2>Our aim is to maintain the appearance and quality of our community</h2>
+<h2>Offering special places for community gatherings is our best priolity</h2>
+</section>
+<address> MASAKA SOCIAL CENTER,<br>P.O.BOX 1235,<br>MASAKA BWALA HILL</address>
+<p style="color:red">Email:masakasocailcenter@gmail.com></p>
+<p>Tel 0760348245</p>
+<a href="cissy 2.html">go to cissy 2</a><br>
+<section class="section2">
+<h4> OUR SERVICES PROVIDED</h4>
+<ol>
+<li> accomodation services</li><br>
+<li> education services</li><br>
+<li> community gatherings</li><br>
+<li> restorant services</li><br>
+</section>
+<!--Fillfree to visit our place-->
+<section class="section3">
+<h5> More information abaut Masaka social center</h5>
+<p> Visit our place near HILL ROAD SCHOOL</P>
+<P> You can visit our page for more</p>
+</section> 
+<p class="alignment">EDUCATION SERVICES</p>
+<img src="a.jpg">
+<img src="b.jpg">
+<img src="f.jpg">
+<p class="u"> ACCOMODATION SERVICES</p>
+<img src="1.jpg">
+<img src="o.jpg">
+<p class="ov">RESTORANT SERVICES</p>
+<img src="p.jpg">
+<img src="v.jpg">
+</body>
+</html>
